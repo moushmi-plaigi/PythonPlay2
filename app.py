@@ -1,5 +1,3 @@
-X-Replit-User-Id
-CURL /__replauthuser
 from flask import Flask
 
 app = Flask(__name__)
